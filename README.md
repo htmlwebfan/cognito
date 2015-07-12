@@ -1,11 +1,8 @@
 # Obfuscator
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Latest Version on Packagist][ico-version]][https://packagist.org/packages/htmlwebfan/cognito#v1.0.1]
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Total Downloads][ico-downloads]][https://packagist.org/packages/htmlwebfan/cognito/stats]
 
 This package allows yu use php to generate javascript code that adds email addresses to a page.
 As aresult you do not have to hardcode email addresses into the page. since the address is not 
