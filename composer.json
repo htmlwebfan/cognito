@@ -2,7 +2,7 @@
     "name": "htmlwebfan/cognito",
     "description": "A package of tools used for revealing elements to humans and but keeping them hidden from bots.",
     "keywords": [
-        "htmlwebfan, mway, matt, way, obfuscator, email, obfuscate, hide",
+        "htmlwebfan","mway", "matt", "way", "obfuscator", "email", "obfuscate", "hide",
         "Cognito"
     ],
     "homepage": "https://github.com/htmlwebfan/cognito",
