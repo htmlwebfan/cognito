@@ -34,7 +34,7 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- [Matthew Way][http://www.htmlwebfan.com]
+- Matthew Way - http://www.htmlwebfan.com
 
 ## License
 
