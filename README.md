@@ -3,8 +3,8 @@
 [![Latest Version](https://img.shields.io/github/release/htmlwebfan/cognito.svg?style=flat-square)](https://github.com/htmlwebfan/cognito/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-This package allows yu use php to generate javascript code that adds email addresses to a page.
-As aresult you do not have to hardcode email addresses into the page. since the address is not 
+This package allows you to use php to generate javascript code that adds email addresses to a page.
+As a result you do not have to hardcode email addresses into the page. since the address is not 
 in the source code of the page, email scrapers and harvesters are avoided for the most part. 
 The package is not meant to be unbeatable by a bot. It is simply an effort to make it too difficult 
 to be worth the attempt.
