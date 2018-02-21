@@ -30,7 +30,7 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- Matthew Way - http://www.htmlwebfan.com
+- Matthew Way - https://www.htmlwebfan.com
 
 ## License
 
