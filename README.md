@@ -26,7 +26,7 @@ echo $ob->generateJS();
 
 ## Security
 
-If you discover any security related issues, please email :author_email instead of using the issue tracker.
+If you discover any security related issues, please email me at https://htmlwebfan.com/#contact instead of using the issue tracker.
 
 ## Credits
 
